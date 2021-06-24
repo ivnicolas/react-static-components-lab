@@ -13,4 +13,4 @@ export default class MouseComponent extends Component {
       </div>
     )
   }
-}
+} 

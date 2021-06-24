@@ -14,4 +14,4 @@ export class GraceHopperQuoteComponent extends Component {
 			</div>
 		);
 	}
-}
+} export default GraceHopperQuoteComponent
